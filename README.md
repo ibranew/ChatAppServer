@@ -8,9 +8,9 @@ ChatApp, ASP.NET Core ve Angular kullanarak geliştirilmiş gerçek zamanlı bir
 ✅ Online / Offline durumu görüntüleme    
 
 ## 🖼️ Ekran Görüntüleri  
-![Ana Ekran](./Screenshots/welcome.png)  
-![Mesaj Örnek](./Screenshots/chatwith.png)
-![Mesaj Örnek 2](./Screenshots/chatwithcemal.png)    
+![Ana Ekran](./Screenshots/welcome.PNG)  
+![Mesaj Örnek](./Screenshots/chatwith.PNG)
+![Mesaj Örnek 2](./Screenshots/chatwithcemal.PNG)    
 
 > 📌 Daha fazla ekran görüntüsü için `screenshots/` klasörünü inceleyin.  
 
